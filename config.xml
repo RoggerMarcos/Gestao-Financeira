@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.chies" version="2024.01.01" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <icon src="res/logo64.png" />	
+	<platform name="android">
+		<splash src="res/logo64.png"  density="land-hdpi" />
+	</platform>	
+	<preference name="SplashScreenDelay" value="10000" />	
+    <name>Gestão Financeira</name>
+    <description>
+        App para Gestão Financeira
+    </description>
+    <author email="rogger.marcos@gmail.com" href="http://roggermarcos.blogspot.com.br">
+        Rogger Marcos Aragão Rocha 
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	<feature name="Storage">
+		<param name="android-package" value="org.apache.cordova.Storage" />
+	</feature>
+</widget>
