@@ -7,3 +7,6 @@
 
 * Para logar fazer seu primeiro cadastro com usuário e senha.
 * Usuário pode ser e-mail, telefone ou cpf, e um senha alfanumérica de acesso.
+
+Video de demonstração do aplicativo
+https://youtu.be/xWpPCutSfrU
