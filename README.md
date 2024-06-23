@@ -10,3 +10,9 @@
 
 Video de demonstração do aplicativo
 https://youtu.be/xWpPCutSfrU
+
+Forms de levantamento de dados
+https://forms.gle/DFKoTDaoi2FK6MxK7
+
+Publicação Linkedin
+https://www.linkedin.com/posts/roggermarcos_aplicativo-gest%C3%A3o-financeira-activity-7210656313377255424-NLAp?utm_source=share&utm_medium=member_desktop
